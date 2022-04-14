@@ -2,6 +2,8 @@
 
 Face Verification is a complex problem and is evolving every year. There are many challenges one can face while creating the Face Verifcation System. To solve this problem there is a popular approach of One Shot learning.
 
+**WORK UNDER PROGRESS**
+
 ## Block Diagram
 
 ![](references/items/Blank%20diagram.png)
