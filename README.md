@@ -4,6 +4,11 @@ Face Verification is a complex problem and is evolving every year. There are man
 
 **WORK UNDER PROGRESS**
 
+## Demo of the Project
+
+https://user-images.githubusercontent.com/63489382/163522027-cf2475d4-b0a9-4f73-9d7c-8fdbe38c3441.mp4
+
+
 ## Block Diagram
 
 ![](references/items/Blank%20diagram.png)
