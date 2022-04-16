@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/63489382/163522027-cf2475d4-b0a9-4f73-
 
 ## Architecture
 
-The is a network which has shared weights b/w all the data. There are multiple architectures to build this network. Trying with multiple networks the **Resnet34** based architecture gives the good result. The training accuracy is about 93% and validation accuracy is about 80%.
+The is a network which has shared weights b/w all the data. There are multiple architectures to build this network. Trying with multiple networks the **Resnet34** based architecture gives the good result. The training accuracy is about 85% and validation accuracy is about 79%.
 
 ![](references/items/Untitled%20Diagram.drawio.png)
 
